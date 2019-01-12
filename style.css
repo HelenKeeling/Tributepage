@@ -1,0 +1,55 @@
+blockquote{
+    font-style: italic;
+    text-align: center;
+    margin: 10px;;
+  }
+
+  html body{
+    font-family: 'Lato', sans-serif;
+    min-width:260px;
+    background-color:white;
+    color: black;
+  }
+.link {
+    padding: 10px;
+}
+ 
+#title{
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
+#main {
+    border-radius:10px;
+   background-color: rgba(221, 221, 221, 0.933);
+}
+
+img{
+    max-width: 100%; 
+    display: block; 
+    height: auto;
+    margin: auto;
+    border-radius: 10px;
+  }
+#img-div{
+    
+    border:10px solid white;
+    background:white;
+    margin: 20px;
+    
+    
+}
+#img-caption{
+    text-align: center;
+    padding: 10px;
+}
+
+li{
+    padding: 5px;
+}
+    ul{
+        max-width:550px;
+        margin:0 auto;
+        text-align:left;
+      }
