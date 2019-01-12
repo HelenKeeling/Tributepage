@@ -22,7 +22,8 @@ blockquote{
 }
 #main {
     border-radius:10px;
-   background-color: rgba(221, 221, 221, 0.933);
+   background-color:rgb(241, 240, 240);
+   margin: 40px;
 }
 
 img{
@@ -34,8 +35,8 @@ img{
   }
 #img-div{
     
-    border:10px solid white;
-    background:white;
+    
+    background:rgb(241, 240, 240);;
     margin: 20px;
     
     
@@ -44,7 +45,11 @@ img{
     text-align: center;
     padding: 10px;
 }
-
+#tribute-info{
+    background-color: white;
+    border-radius:10px;
+    margin: 40px;
+}
 li{
     padding: 5px;
 }
